@@ -1,2 +1,2 @@
 # Position
-ibeacon的三角定位 
+ibeacon的质心定位 
